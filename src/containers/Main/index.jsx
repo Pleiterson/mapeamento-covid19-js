@@ -1,8 +1,8 @@
-import React, { memo, useState, useCallback, useEffect } from 'react'
-import Api from '../../api'
-import Board from './components/Board'
-import Panel from './components/Panel'
-import { ContainerStyled } from './style'
+import React, { memo, useState, useCallback, useEffect } from 'react';
+import Api from '../../api';
+import Board from './components/Board';
+// import Panel from './components/Panel';
+import { ContainerStyled } from './style';
 
 function Main() {
   const [data, setData] = useState({})
@@ -26,13 +26,13 @@ function Main() {
   return (
     <ContainerStyled>
       <div className="mb-2">
-        <Panel
+        {/* <Panel
           data={data}
           updateAt={updateAt}
           onChange={handleChange}
           country={country}
           getCovidData={getCovidData}
-        />
+        /> */}
       </div>
       <Board data={data} />
       
