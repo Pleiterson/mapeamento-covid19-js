@@ -20,7 +20,7 @@
 
 <img src="./src/assets/readme/badge.png" title="Badge" width="70" height="70">
 
-Curso do Bootcamp React Native Mobile Developer da [Digital Innovation One](https://digitalinnovation.one/).
+Curso do Bootcamp React Web Developer da [Digital Innovation One](https://digitalinnovation.one/).
 
 Mantenha-se informado a respeito de todos os casos do COVID19 pelo mundo criando uma "Progressive Web Application (PWA)" utilizando React e aprenda como criar uma aplicação para ser executada no browser e funcionar como aplicativo contendo algumas funcionalidades de um aplicativo nativo. Tudo rápido e fácil, sem precisar subir para a Play Store ou App Store.
 
