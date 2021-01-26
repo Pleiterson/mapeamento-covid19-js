@@ -24,6 +24,10 @@ Curso do Bootcamp React Web Developer da [Digital Innovation One](https://digita
 
 Mantenha-se informado a respeito de todos os casos do COVID19 pelo mundo criando uma "Progressive Web Application (PWA)" utilizando React e aprenda como criar uma aplicação para ser executada no browser e funcionar como aplicativo contendo algumas funcionalidades de um aplicativo nativo. Tudo rápido e fácil, sem precisar subir para a Play Store ou App Store.
 
+- [Projeto desenvolvido](https://game-resgate.vercel.app/)
+
+<p align="center"><img src="./src/assets/readme/projeto.gif" title="Mapeamento Covid-19"></p>
+
 <h3>👨‍💻 Tecnologias utilizadas</h3>
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
